@@ -1,0 +1,4 @@
+)DÛô
+N
+.{%match0%}{%whenNN%}{%whenNNN|	1%}.{%match1%}{%whenNNF|	1%}{%whenNN|N|	1%}{hen.{%match1%}{%whenNNN|	0%}{%whenNN|N|	0%}
+.{%match2%}{%whenNNN|	1%}{%whenNNÿÿ

@@ -1,0 +1,8 @@
+
+{%match
+
+*9%}{%when-0%}}{%endwhen
+%}{%when-0%}=}{%endwhen
+%}{%when-00%}}{%endwhen
+%}{%when-3%}}{%endwhen
+%}{ai
