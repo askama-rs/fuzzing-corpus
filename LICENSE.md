@@ -1,6 +1,6 @@
 MIT No Attribution
 
-Copyright 2024 The Rinja Developers <https://github.com/rinja-rs>
+Copyright 2024 The Askama Developers <https://github.com/askama-rs>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
